@@ -1,0 +1,47 @@
+﻿# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+
+# Logs and databases
+*.log
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+
+# Distribution
+build/
+dist/
+*.egg-info/
+
+# Node modules
+node_modules/
+
+# Sensitive / business data
+*.prn
+found_ids.txt
+ids_only.txt
+sn_to_id_mapping.txt
+*.xlsx
+*.pdf
+*.zip
+*.rar
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Sensitive config
+config/app_settings.json

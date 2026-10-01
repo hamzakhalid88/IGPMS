@@ -1,0 +1,10 @@
+{
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "haamzakhan159@gmail.com",
+    "sender_password": "qhcg ytgu xlkt niie",
+    "receiver_email": "saqib.javed@vgotel.com",
+    "use_tls": true,
+    "subject_prefix": "IMEI Data Export",
+    "email_body": "Auto-generated IMEI data export for {date}.\nTotal records: {count}"
+}
